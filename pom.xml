@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>es.upm.grupoab.profundizacion</groupId>
-  <artifactId>testsmells</artifactId>
-  <version>v1.0.2</version>
+  <artifactId>tsDetect_Plugin</artifactId>
+  <version>v1.0.3</version>
   <packaging>maven-plugin</packaging>
 
   <name>plugin Maven Mojo</name>
