@@ -4,9 +4,9 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>es.upm.grupoab.profundizacion</groupId>
+  <groupId>com.github.uyj55432</groupId>
   <artifactId>tsDetect_Plugin</artifactId>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <packaging>maven-plugin</packaging>
 
   <name>plugin Maven Mojo</name>
